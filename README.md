@@ -1,1 +1,1 @@
-# vinprogramming.github.io
+#This is where you find the code and articles from the YouTube channel Vin Programming. I usually make videos in Telugu language. But sometimes when the content is potentially useful for everyone, I make them in English. You are awesome.
